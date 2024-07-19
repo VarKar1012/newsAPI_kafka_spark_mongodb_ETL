@@ -27,3 +27,6 @@
 > [!IMPORTANT]
 > Compatibility of versions between Spark-Kafka and Spark-MongoDB connectors are a headache.<br>
 > First, try to find out the compatible connectors for the required Spark version for a successful run.
+
+**_Screen shot of the created collection in mongoDB compass:_** <br>  
+![mongodb_image](assests/images/mongodb_out.png)
